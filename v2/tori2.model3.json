@@ -1,0 +1,9 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "tori2.moc3",
+		"Textures": [
+			"tori2.1024/texture_00.png"
+		]
+	}
+}
