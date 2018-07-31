@@ -1,9 +1,9 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "v3.moc3",
+		"Moc": "v3_1.moc3",
 		"Textures": [
-			"v3.1024/texture_00.png"
+			"v3_1.1024/texture_00.png"
 		]
 	}
 }
